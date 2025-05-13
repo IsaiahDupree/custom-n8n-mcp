@@ -1,4 +1,4 @@
-FROM n8nio/n8n:1.90.3
+FROM n8nio/n8n:1.87.0
 
 # Switch to root user to install global npm packages
 USER root
